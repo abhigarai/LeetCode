@@ -1,2 +1,2 @@
 # algorithm
-Practice
+Leetcode Problems
